@@ -1,16 +1,3 @@
-# DevOps Directive GitHub Actions Course
-
-This is the companion repo to: [GitHub Actions: Beginner to Pro](https://courses.devopsdirective.com/github-actions-beginner-to-pro)
-
-[![](./readme-assets/thumbnail-yt.png)](https://youtu.be/Xwpi0ITkL3U)
-
-## 🙌 Sponsored by Namespace Labs
-
-This course is made possible thanks to [namespace.so](https://namespace.so/?utm_source=devopsdirective), the best way level up your software build and developer workflows!
-
-
-[![](./readme-assets/namespace-screenshot.png)](https://namespace.so/?utm_source=devopsdirective)
-
 - **Faster GitHub Actions:** Hosted GHA runners for faster runs at a fraction of the cost!
 - **Faster Docker Builds:** Remote Docker builders for massive container build speedups!
 - **Continuous Integration Visibility:** Clear metrics and analytics to enable further CI optimization!
@@ -31,7 +18,7 @@ This course is made possible thanks to [namespace.so](https://namespace.so/?utm_
 
 1. **Clone this repository (including submodules)**  
 ```bash
-git clone --recurse-submodules git@github.com:sidpalas/devops-directive-github-actions-course.git
+git clone --recurse-submodules git@github.com:Miratok/github-actions-course.git
 ```
 
 2. **Install DevBox** – DevBox bootstraps all required CLI tools (Go, Node.js, Python, `act`, `task`, `npc`, `civo`, `gh`, `jq`, `yq`, `kubectl`, `kluctl`, ...).  
